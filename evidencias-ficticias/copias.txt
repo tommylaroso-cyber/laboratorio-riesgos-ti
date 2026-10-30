@@ -1,0 +1,6 @@
+EVIDENCIA SIMULADA — NO ES UN REGISTRO REAL
+Fecha ficticia: 2026-10-02
+
+Nota de operación: la empresa confía en la papelera y el historial del proveedor de la tienda. No se encontró evidencia ficticia de una copia independiente ni de una prueba de restauración.
+
+Interpretación para el ejercicio: la recuperación depende de capacidades del proveedor que deben verificarse; la falta de una prueba no demuestra que no exista toda forma de recuperación.

@@ -1,0 +1,9 @@
+EVIDENCIA SIMULADA — NO ES UN REGISTRO REAL
+Fecha ficticia: 2026-10-03
+
+Extracto inventado del listado de usuarios:
+- admin-tienda: propietaria, acceso total
+- ventas: acceso de administrador (3 personas comparten la cuenta)
+- inventario: acceso de administrador
+
+Interpretación para el ejercicio: verificar si cada función realmente necesita privilegios administrativos y si es posible atribuir acciones a una persona.

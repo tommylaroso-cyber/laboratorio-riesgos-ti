@@ -1,0 +1,6 @@
+EVIDENCIA SIMULADA — NO ES UN REGISTRO REAL
+Fecha ficticia: 2026-10-04
+
+Inventario ficticio de notebooks: 8 equipos Windows. En tres equipos figura una fecha de actualización de seguridad de hace más de 90 días; no hay reporte centralizado de cumplimiento.
+
+Interpretación para el ejercicio: antigüedad de parches es un indicador, no prueba por sí sola de vulnerabilidad explotable. Proponer inventario y política de actualización medible.

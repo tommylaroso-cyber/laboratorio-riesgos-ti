@@ -1,0 +1,6 @@
+EVIDENCIA SIMULADA — NO ES UN REGISTRO REAL
+Fecha ficticia: 2026-10-05
+
+La configuración inventada de la aplicación no muestra alertas de inicio de sesión anómalo. La retención de eventos no está documentada y nadie tiene asignada una revisión periódica.
+
+Interpretación para el ejercicio: distinguir entre registros no habilitados, no consultados o simplemente no documentados. Confirmar capacidades del proveedor.

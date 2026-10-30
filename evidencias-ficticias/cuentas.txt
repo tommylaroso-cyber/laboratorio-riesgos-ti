@@ -1,0 +1,6 @@
+EVIDENCIA SIMULADA — NO ES UN REGISTRO REAL
+Fecha ficticia: 2026-10-01
+
+Entrevista simulada con la administradora: "Varias personas usan una clave parecida para entrar al correo y al panel de la tienda. No hemos activado el segundo factor porque todavía estamos configurando las cuentas."
+
+Interpretación para el ejercicio: indicio de reutilización/fortaleza insuficiente y ausencia de MFA. Validar alcance y excepciones antes de asignar valores.
